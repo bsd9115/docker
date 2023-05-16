@@ -1,0 +1,388 @@
+# 이 viminfo 파일은 빔이 만든 것입니다 Vim 8.0.
+# 조심만 한다면 고칠 수도 있습니다!
+
+# Viminfo version
+|1,4
+
+# 이 파일이 저장되었을 때의 'encoding'의 값
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~H
+# 명령 행 히스토리 (새것부터 오래된 것 순):
+:wq
+|2,0,1680680552,,"wq"
+:q
+|2,0,1680667417,,"q"
+:wq!
+|2,0,1680051638,,"wq!"
+:q!
+|2,0,1680051564,,"q!"
+
+# 찾을 문자열 히스토리 (새것부터 오래된 것 순):
+
+# 표현 히스토리 (새것부터 오래된 것 순):
+
+# 입력 행 히스토리 (새것부터 오래된 것 순):
+
+# 디버그 행 히스토리 (새것부터 오래된 것 순):
+
+# 레지스터:
+
+# 파일 마크:
+'0  15  0  ~/docker/07_apm/apm_to_docker-compose/html/db.php
+|4,48,15,0,1680680552,"~/docker/07_apm/apm_to_docker-compose/html/db.php"
+'1  1  18  ~/docker/07_apm/apm_to_docker-compose/html/index.php
+|4,49,1,18,1680680495,"~/docker/07_apm/apm_to_docker-compose/html/index.php"
+'2  1  9  /etc/timezone
+|4,50,1,9,1680679221,"/etc/timezone"
+'3  1  0  ~/docker/07_haproxy-cmd/haproxy.cfg
+|4,51,1,0,1680667417,"~/docker/07_haproxy-cmd/haproxy.cfg"
+'4  15  21  ~/.bashrc
+|4,52,15,21,1680664160,"~/.bashrc"
+'5  16  30  ~/.bashrc
+|4,53,16,30,1680663772,"~/.bashrc"
+'6  16  30  ~/.bashrc
+|4,54,16,30,1680663772,"~/.bashrc"
+'7  7  6  /test/test.yml
+|4,55,7,6,1680600786,"/test/test.yml"
+'8  14  22  ~/.bashrc
+|4,56,14,22,1680598715,"~/.bashrc"
+'9  14  22  ~/.bashrc
+|4,57,14,22,1680598715,"~/.bashrc"
+
+# 점프목록 (새것이 먼저):
+-'  15  0  ~/docker/07_apm/apm_to_docker-compose/html/db.php
+|4,39,15,0,1680680552,"~/docker/07_apm/apm_to_docker-compose/html/db.php"
+-'  1  0  ~/docker/07_apm/apm_to_docker-compose/html/db.php
+|4,39,1,0,1680680542,"~/docker/07_apm/apm_to_docker-compose/html/db.php"
+-'  1  18  ~/docker/07_apm/apm_to_docker-compose/html/index.php
+|4,39,1,18,1680680495,"~/docker/07_apm/apm_to_docker-compose/html/index.php"
+-'  1  18  ~/docker/07_apm/apm_to_docker-compose/html/index.php
+|4,39,1,18,1680680495,"~/docker/07_apm/apm_to_docker-compose/html/index.php"
+-'  1  9  /etc/timezone
+|4,39,1,9,1680679221,"/etc/timezone"
+-'  1  9  /etc/timezone
+|4,39,1,9,1680679221,"/etc/timezone"
+-'  1  9  /etc/timezone
+|4,39,1,9,1680679221,"/etc/timezone"
+-'  1  9  /etc/timezone
+|4,39,1,9,1680679221,"/etc/timezone"
+-'  1  0  ~/docker/07_haproxy-cmd/haproxy.cfg
+|4,39,1,0,1680667417,"~/docker/07_haproxy-cmd/haproxy.cfg"
+-'  1  0  ~/docker/07_haproxy-cmd/haproxy.cfg
+|4,39,1,0,1680667417,"~/docker/07_haproxy-cmd/haproxy.cfg"
+-'  1  0  ~/docker/07_haproxy-cmd/haproxy.cfg
+|4,39,1,0,1680667417,"~/docker/07_haproxy-cmd/haproxy.cfg"
+-'  1  0  ~/docker/07_haproxy-cmd/haproxy.cfg
+|4,39,1,0,1680667417,"~/docker/07_haproxy-cmd/haproxy.cfg"
+-'  1  0  ~/docker/07_haproxy-cmd/haproxy.cfg
+|4,39,1,0,1680667417,"~/docker/07_haproxy-cmd/haproxy.cfg"
+-'  1  0  ~/docker/07_haproxy-cmd/haproxy.cfg
+|4,39,1,0,1680667417,"~/docker/07_haproxy-cmd/haproxy.cfg"
+-'  1  0  ~/docker/07_haproxy-cmd/haproxy.cfg
+|4,39,1,0,1680667417,"~/docker/07_haproxy-cmd/haproxy.cfg"
+-'  1  0  ~/docker/07_haproxy-cmd/haproxy.cfg
+|4,39,1,0,1680667417,"~/docker/07_haproxy-cmd/haproxy.cfg"
+-'  15  21  ~/.bashrc
+|4,39,15,21,1680664160,"~/.bashrc"
+-'  15  21  ~/.bashrc
+|4,39,15,21,1680664160,"~/.bashrc"
+-'  15  21  ~/.bashrc
+|4,39,15,21,1680664160,"~/.bashrc"
+-'  15  21  ~/.bashrc
+|4,39,15,21,1680664160,"~/.bashrc"
+-'  15  21  ~/.bashrc
+|4,39,15,21,1680664160,"~/.bashrc"
+-'  15  21  ~/.bashrc
+|4,39,15,21,1680664160,"~/.bashrc"
+-'  15  21  ~/.bashrc
+|4,39,15,21,1680664160,"~/.bashrc"
+-'  15  21  ~/.bashrc
+|4,39,15,21,1680664160,"~/.bashrc"
+-'  15  21  ~/.bashrc
+|4,39,15,21,1680664160,"~/.bashrc"
+-'  15  21  ~/.bashrc
+|4,39,15,21,1680664160,"~/.bashrc"
+-'  15  21  ~/.bashrc
+|4,39,15,21,1680664160,"~/.bashrc"
+-'  15  21  ~/.bashrc
+|4,39,15,21,1680664160,"~/.bashrc"
+-'  15  21  ~/.bashrc
+|4,39,15,21,1680664160,"~/.bashrc"
+-'  15  21  ~/.bashrc
+|4,39,15,21,1680664160,"~/.bashrc"
+-'  15  21  ~/.bashrc
+|4,39,15,21,1680664160,"~/.bashrc"
+-'  15  21  ~/.bashrc
+|4,39,15,21,1680664160,"~/.bashrc"
+-'  16  0  ~/.bashrc
+|4,39,16,0,1680664154,"~/.bashrc"
+-'  16  0  ~/.bashrc
+|4,39,16,0,1680664154,"~/.bashrc"
+-'  16  0  ~/.bashrc
+|4,39,16,0,1680664154,"~/.bashrc"
+-'  16  0  ~/.bashrc
+|4,39,16,0,1680664154,"~/.bashrc"
+-'  16  0  ~/.bashrc
+|4,39,16,0,1680664154,"~/.bashrc"
+-'  16  0  ~/.bashrc
+|4,39,16,0,1680664154,"~/.bashrc"
+-'  16  0  ~/.bashrc
+|4,39,16,0,1680664154,"~/.bashrc"
+-'  16  0  ~/.bashrc
+|4,39,16,0,1680664154,"~/.bashrc"
+-'  16  0  ~/.bashrc
+|4,39,16,0,1680664154,"~/.bashrc"
+-'  16  0  ~/.bashrc
+|4,39,16,0,1680664154,"~/.bashrc"
+-'  16  0  ~/.bashrc
+|4,39,16,0,1680664154,"~/.bashrc"
+-'  16  0  ~/.bashrc
+|4,39,16,0,1680664154,"~/.bashrc"
+-'  16  0  ~/.bashrc
+|4,39,16,0,1680664154,"~/.bashrc"
+-'  16  0  ~/.bashrc
+|4,39,16,0,1680664154,"~/.bashrc"
+-'  16  0  ~/.bashrc
+|4,39,16,0,1680664154,"~/.bashrc"
+-'  16  0  ~/.bashrc
+|4,39,16,0,1680664154,"~/.bashrc"
+-'  16  30  ~/.bashrc
+|4,39,16,30,1680663772,"~/.bashrc"
+-'  16  30  ~/.bashrc
+|4,39,16,30,1680663772,"~/.bashrc"
+-'  16  30  ~/.bashrc
+|4,39,16,30,1680663772,"~/.bashrc"
+-'  16  30  ~/.bashrc
+|4,39,16,30,1680663772,"~/.bashrc"
+-'  16  30  ~/.bashrc
+|4,39,16,30,1680663772,"~/.bashrc"
+-'  16  30  ~/.bashrc
+|4,39,16,30,1680663772,"~/.bashrc"
+-'  16  30  ~/.bashrc
+|4,39,16,30,1680663772,"~/.bashrc"
+-'  16  30  ~/.bashrc
+|4,39,16,30,1680663772,"~/.bashrc"
+-'  16  30  ~/.bashrc
+|4,39,16,30,1680663772,"~/.bashrc"
+-'  16  30  ~/.bashrc
+|4,39,16,30,1680663772,"~/.bashrc"
+-'  16  30  ~/.bashrc
+|4,39,16,30,1680663772,"~/.bashrc"
+-'  16  30  ~/.bashrc
+|4,39,16,30,1680663772,"~/.bashrc"
+-'  16  30  ~/.bashrc
+|4,39,16,30,1680663772,"~/.bashrc"
+-'  16  30  ~/.bashrc
+|4,39,16,30,1680663772,"~/.bashrc"
+-'  16  30  ~/.bashrc
+|4,39,16,30,1680663772,"~/.bashrc"
+-'  16  30  ~/.bashrc
+|4,39,16,30,1680663772,"~/.bashrc"
+-'  14  0  ~/.bashrc
+|4,39,14,0,1680663740,"~/.bashrc"
+-'  14  0  ~/.bashrc
+|4,39,14,0,1680663740,"~/.bashrc"
+-'  14  0  ~/.bashrc
+|4,39,14,0,1680663740,"~/.bashrc"
+-'  14  0  ~/.bashrc
+|4,39,14,0,1680663740,"~/.bashrc"
+-'  14  0  ~/.bashrc
+|4,39,14,0,1680663740,"~/.bashrc"
+-'  14  0  ~/.bashrc
+|4,39,14,0,1680663740,"~/.bashrc"
+-'  14  0  ~/.bashrc
+|4,39,14,0,1680663740,"~/.bashrc"
+-'  14  0  ~/.bashrc
+|4,39,14,0,1680663740,"~/.bashrc"
+-'  14  0  ~/.bashrc
+|4,39,14,0,1680663740,"~/.bashrc"
+-'  14  0  ~/.bashrc
+|4,39,14,0,1680663740,"~/.bashrc"
+-'  14  0  ~/.bashrc
+|4,39,14,0,1680663740,"~/.bashrc"
+-'  14  0  ~/.bashrc
+|4,39,14,0,1680663740,"~/.bashrc"
+-'  14  0  ~/.bashrc
+|4,39,14,0,1680663740,"~/.bashrc"
+-'  14  0  ~/.bashrc
+|4,39,14,0,1680663740,"~/.bashrc"
+-'  14  0  ~/.bashrc
+|4,39,14,0,1680663740,"~/.bashrc"
+-'  14  0  ~/.bashrc
+|4,39,14,0,1680663740,"~/.bashrc"
+-'  14  0  ~/.bashrc
+|4,39,14,0,1680663740,"~/.bashrc"
+-'  14  0  ~/.bashrc
+|4,39,14,0,1680663740,"~/.bashrc"
+-'  14  0  ~/.bashrc
+|4,39,14,0,1680663740,"~/.bashrc"
+-'  14  0  ~/.bashrc
+|4,39,14,0,1680663740,"~/.bashrc"
+-'  14  0  ~/.bashrc
+|4,39,14,0,1680663740,"~/.bashrc"
+-'  14  0  ~/.bashrc
+|4,39,14,0,1680663740,"~/.bashrc"
+-'  14  0  ~/.bashrc
+|4,39,14,0,1680663740,"~/.bashrc"
+-'  14  0  ~/.bashrc
+|4,39,14,0,1680663740,"~/.bashrc"
+-'  14  0  ~/.bashrc
+|4,39,14,0,1680663740,"~/.bashrc"
+-'  14  0  ~/.bashrc
+|4,39,14,0,1680663740,"~/.bashrc"
+-'  14  0  ~/.bashrc
+|4,39,14,0,1680663740,"~/.bashrc"
+-'  14  0  ~/.bashrc
+|4,39,14,0,1680663740,"~/.bashrc"
+-'  14  0  ~/.bashrc
+|4,39,14,0,1680663740,"~/.bashrc"
+-'  14  0  ~/.bashrc
+|4,39,14,0,1680663740,"~/.bashrc"
+-'  14  0  ~/.bashrc
+|4,39,14,0,1680663740,"~/.bashrc"
+-'  14  0  ~/.bashrc
+|4,39,14,0,1680663740,"~/.bashrc"
+-'  7  6  /test/test.yml
+|4,39,7,6,1680600786,"/test/test.yml"
+-'  7  6  /test/test.yml
+|4,39,7,6,1680600786,"/test/test.yml"
+-'  7  6  /test/test.yml
+|4,39,7,6,1680600786,"/test/test.yml"
+-'  7  6  /test/test.yml
+|4,39,7,6,1680600786,"/test/test.yml"
+
+# 파일내의 마크 히스토리 (새것부터 오래된 순):
+
+> ~/docker/07_apm/apm_to_docker-compose/html/db.php
+	*	1680680551	0
+	"	15	0
+	^	15	0
+	.	14	2
+	+	14	2
+
+> ~/docker/07_apm/apm_to_docker-compose/html/index.php
+	*	1680680494	0
+	"	1	18
+	^	1	19
+	.	1	18
+	+	1	18
+
+> /etc/timezone
+	*	1680679208	0
+	"	1	9
+	^	1	10
+	.	1	9
+	+	1	9
+
+> ~/docker/07_haproxy-cmd/haproxy.cfg
+	*	1680667404	0
+	"	1	0
+
+> ~/.bashrc
+	*	1680664159	0
+	"	15	21
+	^	15	22
+	.	15	21
+	+	23	57
+	+	14	0
+	+	26	74
+	+	27	41
+	+	28	6
+	+	27	6
+	+	29	33
+	+	17	0
+	+	14	0
+	+	14	22
+	+	16	30
+	+	15	21
+
+> /test/test.yml
+	*	1680598770	0
+	"	7	6
+	.	7	5
+	+	7	5
+
+> ~/.vimrc
+	*	1680598583	0
+	"	1	0
+
+> ~/docker/07_python/app.py
+	*	1680501719	0
+	"	1	0
+	^	78	0
+	.	78	0
+	+	1	0
+	+	77	26
+	+	78	0
+
+> ~/docker/06_shellscript/Dockerfile
+	*	1680494966	0
+	"	8	0
+	^	8	0
+	.	7	16
+	+	2	0
+	+	3	0
+	+	2	0
+	+	7	16
+
+> ~/docker/06_shellscript/hello.sh
+	*	1680494924	0
+	"	3	0
+	^	3	0
+	.	2	20
+	+	1	9
+	+	2	20
+
+> ~/.bin/bash
+	*	1679984611	0
+	"	1	0
+
+> /etc/selinux/config
+	*	1679968491	0
+	"	7	17
+	^	7	18
+	.	7	17
+	+	7	17
+
+> /home/ansible/.bashrc
+	*	1678766790	0
+	"	24	57
+	^	24	58
+	.	24	57
+	+	24	57
+
+> /etc/sudoers
+	*	1678764429	0
+	"	110	0
+	^	110	1
+	.	110	0
+	+	107	0
+	+	110	0
+	+	107	0
+	+	110	0
+	+	107	0
+	+	110	0
+
+> /home/ansible/bin/known_hosts_update.sh
+	*	1678764232	0
+	"	7	3
+	^	7	4
+	.	7	3
+	+	7	3
+
+> /etc/hosts
+	*	1678763596	0
+	"	12	78
+	^	12	79
+	.	12	78
+	+	3	0
+	+	13	77
+	+	7	1
+	+	5	0
+	+	9	0
+	+	3	0
+	+	11	78
+	+	12	78

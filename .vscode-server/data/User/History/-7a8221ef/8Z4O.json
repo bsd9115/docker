@@ -1,0 +1,18 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "python.defaultInterpreterPath": "C:\\Users\\bsd91\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+    "cmake.configureOnOpen": true,
+    "files.autoSave": "onWindowChange",
+    "editor.fontSize": 18,
+    "python.autoComplete.extraPaths": [
+    
+    ],
+    "python.analysis.extraPaths": [],
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "remote.SSH.remotePlatform": {
+        "192.168.10.10": "linux"
+    },
+    "workbench.startupEditor": "none"
+}

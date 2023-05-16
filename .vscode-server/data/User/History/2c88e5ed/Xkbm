@@ -1,0 +1,15 @@
+# syntax=docker/dockerfile:1
+FROM python:3.7-alpine        # base image 설정
+
+WORKDIR /code                   # 작업디렉토리 
+
+ENV FLASK_APP=app.py           # 환경변수
+ENV FLASK_RUN_HOST=0.0.0.0    # 환경변수
+RUN apk add --no-cache gcc musl-dev linux-headers  # gcc 및 기타 종속성 패키지 설치
+
+COPY requirements.txt requirements.txt              # python 종속성 파일 복사
+RUN pip install -r requirements.txt                  # python 종속성 패키지 설치
+EXPOSE 5000                     # 컨테이너 대기 포트 5000
+COPY . .                         # 이미지의 작업 디렉토리(.)에 현재 프로젝트 디렉토리 복사
+
+CMD ["flask", "run"]          # 컨테이너 실행 기본 명령 설정

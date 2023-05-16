@@ -1,0 +1,9 @@
+FROM golang:dlpine
+
+WORKDIR /go/src/app
+COPY main.go .
+
+RUN go build -o webserver .
+
+CMD ["./webserver"]
+

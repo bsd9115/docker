@@ -1,0 +1,5 @@
+FROM centos:7
+
+RUN yum -y install httpd php && yum clean all
+
+ADD src.tar /var/www/html
